@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "d9261abe-7a11-4a52-ae95-e7deb4243c0a",
+		"name": "Reader-MS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "get specific book",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
